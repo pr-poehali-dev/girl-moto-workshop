@@ -103,12 +103,8 @@ const Index = () => {
               <Badge className="bg-primary/20 text-primary border-primary/30">
                 Первая в России 🏍️
               </Badge>
-              <h1 className="text-5xl md:text-7xl font-bold leading-tight">
-                Мотомастерская
-                <span className="block bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-                  для девушек
-                </span>
-              </h1>
+              <h1 className="text-5xl md:text-7xl font-bold leading-tight text-slate-100">SANTA LUCIA  
+мото мастерская для девушек</h1>
               <p className="text-xl text-muted-foreground">
                 Пространство, где девушки-механики заботятся о вашем байке, 
                 пока вы отдыхаете с кофе, маникюром и массажем
