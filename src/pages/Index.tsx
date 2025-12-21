@@ -76,7 +76,7 @@ const Index = () => {
           <div className="flex items-center gap-2">
             <Icon name="Bike" size={32} className="text-primary" />
             <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              MotoLady
+              Santa Lucia
             </span>
           </div>
           <div className="hidden md:flex items-center gap-6">
@@ -361,7 +361,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <div className="flex items-center gap-2">
               <Icon name="Bike" size={28} className="text-primary" />
-              <span className="text-xl font-bold">MotoLady</span>
+              <span className="text-xl font-bold">Santa Lucia</span>
             </div>
             <div className="flex gap-6">
               <a href="#" className="hover:text-primary transition-colors">
@@ -375,7 +375,7 @@ const Index = () => {
               </a>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 MotoLady. Все права защищены.
+              © 2024 Santa Lucia. Все права защищены.
             </p>
           </div>
         </div>
